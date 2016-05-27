@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+  font-family: arial;
+  background-color: #333740;
+}
+
+header {
+  margin: 25px auto;
+  text-align: center;
+}
+
+h1 {
+  padding: 20px;
+  color: #e8e8e8;
+}
+
+button {
+  padding: 5px 10px;
+  border: none;
+  background-color: #e8e8e8;
+  border-radius: 1px;
+}
+
+#container {
+  width: 960px;
+  height: 960px;
+  margin: 25px auto;
+}
+
+.grid {
+  background-color: #e8e8e8;
+  box-sizing: border-box;
+  float: left;
+}
